@@ -1,0 +1,19 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+img{
+	border-top-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.promo{
+	color:#070707;
+}
+.footer{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	font-family: Arial, sans-serif;
+	font-size: 10px;
+}
